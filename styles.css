@@ -1,0 +1,32 @@
+#searchResults {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d5f0f9+0,87d8f1+100 */
+    background: #d5f0f9;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #d5f0f9 0%, #87d8f1 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #d5f0f9 0%, #87d8f1 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #d5f0f9 0%, #87d8f1 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5f0f9', endColorstr='#87d8f1', GradientType=0);
+    /* IE6-9 */
+    border: 1px solid grey;
+    -webkit-box-shadow: 10px 10px 37px -12px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 37px -12px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 37px -12px rgba(0, 0, 0, 0.75);
+    font-size: 26px;
+    margin: 20px 10% 20px 10%;
+    min-width: 300px;
+    padding: 70px;
+    width: auto;
+}
+
+.title {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fa-film {
+    padding: 0 20px;
+}
